@@ -1,0 +1,9 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+.vscode/
+
+# Distribution / packaging
+venv1/
+data/
+backup/
+model/

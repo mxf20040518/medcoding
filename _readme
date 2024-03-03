@@ -1,0 +1,12 @@
+##Create a Python virtual environment (optional but recommended):
+python -m venv venv1
+
+##source venv/bin/activate  
+#On Windows, 
+use: venv1\Scripts\activate
+
+##Install the required Python packages:
+pip install -r requirements.txt
+pip install jupyter
+pip install pandas
+pip install datasets
