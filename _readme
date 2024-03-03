@@ -11,15 +11,15 @@ pip install jupyter
 pip install pandas
 pip install datasets
 
-git init
+=======================================================================
+0. git init
 git add . 
-git commit -m "Update model"
+git commit -m "First model"
 
-git remote set-url origin https://github.com/mxf20040518/medcoding.git
-git branch -M main
+Seeting: git remote set-url origin https://github.com/mxf20040518/medcoding.git
+seeting: git branch -M main
 
-git add . 
-git commit -m "Update model"
-
-git push -u origin main
-
+1. git add . 
+2. git commit -m "Update model"
+3. git push -u origin main
+=======================================================================
