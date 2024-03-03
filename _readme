@@ -10,3 +10,16 @@ pip install -r requirements.txt
 pip install jupyter
 pip install pandas
 pip install datasets
+
+git init
+git add . 
+git commit -m "Update model"
+
+git remote set-url origin https://github.com/mxf20040518/medcoding.git
+git branch -M main
+
+git add . 
+git commit -m "Update model"
+
+git push -u origin main
+
